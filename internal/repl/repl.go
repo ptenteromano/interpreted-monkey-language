@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ptenteromano/monkey-interpreter/lexer"
-	"github.com/ptenteromano/monkey-interpreter/token"
+	"github.com/ptenteromano/monkey-interpreter/internal/lexer"
+	"github.com/ptenteromano/monkey-interpreter/internal/token"
 )
 
 const PROMPT = ">> "

@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/user"
 
-	"github.com/ptenteromano/monkey-interpreter/repl"
+	"github.com/ptenteromano/monkey-interpreter/internal/repl"
 )
 
 func main() {
