@@ -12,4 +12,9 @@ Build it with:
 ## Statements
 Only two statements are supported:
 - `let` statement
-- `return` statement
+- `return`
+
+As well as "expression statements"; a statement that consists solely of one expression.
+
+## Pratt Parsing for Expressions
+"Top Down Operator Precedence" by Vaughan Pratt is used for parsing expressions.
